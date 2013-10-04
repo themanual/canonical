@@ -1,0 +1,2 @@
+themanual-everywhere
+====================
