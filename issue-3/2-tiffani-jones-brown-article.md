@@ -99,9 +99,6 @@ I used to be terrified of writing. Now I am merely very afraid of it. I keep pus
 To practice my passion until I feel it.
 
 [^oconnor]: Flannery O’Connor, *Wise Blood*, (Farrar, Straus and Giroux, 1962).
-
 [^csikszentmihalyi]: Mihaly Csikszentmihalyi, *Flow: The Psychology of Optimal Experience*, (HarperCollins, 2009).
-
 [^dickinson]: Emily Dickinson, *Complete Poems of Emily Dickinson*, (Little, Brown and Company, 1976).
-
 [^rilke]: Rainer Maria Rilke, *Letters to a Young Poet*, (Dover Publications, 2002).

@@ -75,9 +75,6 @@ Despite the web’s youthfulness, I worry that, with a few notable exceptions, o
 I think the time is now, and the opportunities are here. Maybe this is a problem that will, over time, resolve itself. As the web and our industry age, we’ll develop the methods for having these discussions, for creating stronger bonds between our work. But it will take a very real desire from us to look past the *now* of the web, to draw upon its past to improve its future.
 
 [^seneca]: Seneca the Elder, *Suasoriae* 3.7 (As translated in the English edition of Gian Biagio Conte’s *The Rhetoric of Imitation*).
-
 [^stoppard]: Tom Stoppard, “Arcadia,” I.1.
-
 [^bellow]: Saul Bellow, *Mr. Sammler’s Planet*, (Viking, 1970).
-
 [^huxley]: Aldous Huxley, Attributed.

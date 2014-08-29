@@ -104,5 +104,4 @@ But what about the designers? What about the *visual designers* inhabiting the U
 Good graphic designers concern themselves with the *what*, the *who*, and the *how*. The message, the audience, and the mechanics. This is exactly how professional web designers work on the web. If, as an industry, we feel we need to call this practice something, can we just call it what it’s always been called? Let’s call it *graphic design*.
 
 [^rand]: Paul Rand, *The Designer’s Role*, (1946).
-
 [^garrett]: Jesse James Garrett, *Elements of User Experience: User-centered Design for the Web*, (Peachpit Press, 2002).

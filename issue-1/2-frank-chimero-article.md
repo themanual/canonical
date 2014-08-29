@@ -91,7 +91,5 @@ We are not there, and yet, I have hope. We can make conduits for meaningful rela
 See, I’ve just met you, but I am invested in who you are. We are part of a human network. Maybe that’s heaven.
 
 [^lanier]: Jaron Lanier, *[You Are Not a Gadget: A Manifesto](http://www.jaronlanier.com/gadgetwebresources.html)*, (Vintage Books, 2011).
-
 [^salinger]: JD Salinger, *Franny and Zooey*, (Little, Brown and Company, 1961).
-
 [^junod]: Tom Junod, “Can You Say…Hero?” (*Esquire*, November, 1998).

@@ -75,15 +75,9 @@ The challenge then is this: Really dive into the micro-world of type. Learn to s
 So cast the best actor you can and work with the text to really make it shine. Then sit back and watch. And know that even on an empty stage, this actor could deliver an experience more powerful and intense than a stage full of bells and whistles built around a voice that doesn’t reach the audience or just isn’t all that memorable. Know that the right type, set well, can make all the difference, can drive your site and carry your layout. Even—and especially—if readers don’t consciously take notice.
 
 [^stocks]: Elliot Jay Stocks, [“The typography-out approach in the world of browser-based web design.”](http://elliotjaystocks.com/blog/the-typography-out-approach-in-the-world-of-browser-based-web-design/)
-
 [^brown]: Tim Brown, [“More Perfect Typography.”](https://vimeo.com/17079380)
-
 [^hazlett]: Richard L. Hazlett, A. Dawn Shaikh, Kevin Larson, Barbara S. Chaparo, “The Instant Impact of Onscreen Aesthetics: The Effects of Typeface Personality,” (unpublished research/publication proposal, 2008).
-
 [^hochuli-kinross]: Jost Hochuli and Robin Kinross, *Designing Books: practice and theory*, (Hyphen Press, 1996).
-
 [^bringhurst]: Robert Bringhurst, *The Elements of Typographic Style*, (Hartley &amp; Marks, 1992/2005).
-
 [^song-schwarz]: Hyunjin Song and Norbert Schwarz, “If It’s Easy to Read, It’s Easy to Do, Pretty, Good, and True,” (*The Psychologist*, 2010).
-
 [^rands]: [@rands on Twitter](https://twitter.com/rands/status/140983268173549568), November 28, 2011.

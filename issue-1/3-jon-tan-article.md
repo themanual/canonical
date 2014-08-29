@@ -1,4 +1,3 @@
-
 Imagine: You’re in the Tate Modern. You enter one of the upper-floor galleries. The far wall is covered in pictures. People stand, hands clasped behind their backs, contemplating. Some pictures seem sparse, some muted, others rich with color. Some seem to be all text; others appear to have none. You walk closer and you realize they’re all pictures of websites. Frozen, in frames, on the wall.
 
 You notice a sign set in VAG Rounded, from which the Tate logotype was derived, and you smile in recognition. But then your attention snaps back. Wait a second. Websites, in frames, on a wall.

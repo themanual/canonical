@@ -93,11 +93,7 @@ Thankfully, we are *not* content with the current shape of the web, though to ev
 Our responsibility is not to replace *page* in our unique vocabulary of web design but to acknowledge that our current understanding of what it means to design for the web is just a single blip in a universe of possibilities. The web is quickly evolving, and as its creators we must explore the myriad forms our medium offers without allowing our perceived constraints to limit its potential.
 
 [^tufte]: Edward R. Tufte, *[Envisioning Information](http://www.edwardtufte.com/tufte/books*ei)*, (Graphics Press, 1990).
-
 [^page]: “Page,” *Online Etymology Dictionary*
-
 [^card]: “Card,” *[Hypertext Terms](http://info.cern.ch/hypertext/WWW/Terms.html)*, (W3C, 1992).
-
 [^mccloud]: Scott McCloud, *[Reinventing Comics](http://www.harpercollins.com/books/Understanding-Comics-Scott-Mccloud)*, (Harper Paperback, 2000).
-
 [^stella]: Frank Stella, *[Working Space](http://www.hup.harvard.edu/catalog.php?isbn=9780674959613)*, (Harvard University Press, 1986).

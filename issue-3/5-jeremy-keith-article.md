@@ -87,7 +87,5 @@ Alas, this is not hypertext. It is simply text.
 And so this story ends.
 
 [^eco]: Umberto Eco, *Foucault’s Pendulum*, (Bompiani, 1988).
-
 [^laplace]: Pierre-Simon Laplace, *A Philosophical Essay on Probabilities*, (1814).
-
 [^borges]: Jorge Luis Borges, *The Analytical Language of John Wilkins*, (Sur, 1952).

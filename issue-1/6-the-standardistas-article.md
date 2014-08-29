@@ -1,4 +1,3 @@
-
 Our industry has until very recently been a blue-collar affair: it focused primarily on the mechanics of how things work. As a consequence, *function* has dominated discussion and writing within our field. The canon of literature we have collectively developed has tended toward the *how to*, which at its best celebrates a lively, inventive, and sometimes remarkable method and craft. At its worst, it’s represented by didactic step-by-step guides which lead the practitioner down unquestioning pathways resulting in rote learning, an inability to recognize the need for more nuanced choices, and a tendency to accept the status quo and be mere copiers.
 
 As our industry emerges from adolescence, our frame of reference as practitioners is inevitably widening. The question we need to pose is clear: How does the designer who is functionally competent grow professionally?
@@ -189,15 +188,9 @@ As an industry matures, reflection and introspection emerge as natural and essen
 
 
 [^sowell]: Thomas Sowell, *Intellectuals and Society*, (Basic Books, 2010).
-
 [^maslow]: Abraham H. Maslow, *A Theory of Human Motivation*, (Classics in the History of Psychology, 1943).
-
 [^norman]: Don Norman, *The Design of Everyday Things*, (Basic Books, 2002).
-
 [^crow]: David Crow, *Visible Signs*, (AVA, 2003).
-
 [^barthes]: Roland Barthes, *Mythologies*, (Paladin, 1973).
-
 [^shirky]: Clay Shirky, *Here Comes Everybody*, (Allen Lane, 2008).
-
 [^levi-strauss]: Claude Levi-Strauss, *Structural Anthropology*, (Basic Books, 1974).
