@@ -38,7 +38,7 @@ If you’re a designer, this probably means learning code and copy. If you’re 
 
 > It’s easier to bleed than sweat, Mr. Motes.
 > 
-> <cite>— Flannery O’Connor[^oconnor]
+> <cite>— Flannery O’Connor</cite>[^oconnor]
 
 It’s summer in Selma, Indiana, and I’m outside throwing softballs against the barn. I’m practicing my grounders. To make it harder on myself, I throw the ball far to the left and to the right, like my Poppy taught me. I do this for about an hour until I’m so exhausted I have to sit down in the gravel. I feel my heart beat in my chest and watch the heat rise off the corn as I rest. I feel tough and confident, like a 5th-grade girl version of Larry Bird.
 
@@ -60,7 +60,7 @@ If you want to have passion for your work then do what your coaches told you: se
 
 > If your Nerve deny you—Go above your Nerve.
 > 
-> <cite>— Emily Dickinson[^dickinson]
+> <cite>— Emily Dickinson</cite>[^dickinson]
 
 I’ve known I wanted to be a creative writer of some sort since I was a little girl. Before I could read, I remember nabbing books from my grandparents’ crusted 1950s Friendly Zoo Animals encyclopedias, scooting an old wood chair into the middle of the kitchen floor beneath the brightest light, and then pretending to read while my family ate their fried chicken and potatoes. After I learned to write, I would scribble poetry and songs out the eyes and ears of common warthogs and giraffes in those same encyclopedias. “Tiffy’s gonna be a writer someday,” my Nanny—whose parents made her quit school at 8th grade so she could take care of her siblings—would beam.
 
@@ -86,7 +86,7 @@ A few days later, I read the story out loud to a kindly, well-dressed audience a
 
 > Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.
 > 
-> <cite>— Rainer Maria Rilke[^rilke]
+> <cite>— Rainer Maria Rilke</cite>[^rilke]
 
 “What Would You Do if You Weren’t Afraid?” Every day, the big, red question stares down at me from the poster where it lives in my office. It reverberates in my head while I fill my coffee mug and visit the paper clips drawer. The message makes my fears more apparent to me, while de-sensationalizing the concept of fear itself.
 

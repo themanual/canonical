@@ -1,6 +1,6 @@
 > not for the sake of stealing, but of open borrowing, for the purpose of having it recognized.
 > 
-> <cite>— Seneca the Elder[^seneca]</cite>
+> <cite>— Seneca the Elder</cite>[^seneca]
 
 I was probably fifteen when my parents, apparently moved to build a bit of character in their sons, instructed my two brothers and me to paint a newly renovated room at their business and tasked poor Ray, one of the maintenance men, with ensuring we got most of the paint on the walls rather than on each other. (He was not, it should be noted, entirely successful on that front.)
 
@@ -16,7 +16,7 @@ If I close my eyes, I can still see that solitary drop, slowly tracing a gentle 
 > 
 > THOMASINA: Well, I do. You cannot stir things apart.
 > 
-> <cite>— Tom Stoppard[^stoppard]</cite>
+> <cite>— Tom Stoppard</cite>[^stoppard]
 
 When I reached college, I found myself surrounded by teachers who were similarly hooked on this idea of layering, of looking at tradition as something that could define the shape of an idea. I remember when my jazz piano teacher hauled out some old records by Coleman Hawkins and Charlie Parker, albums on which Miles Davis had performed as a band member. After playing a few tracks on each, he pulled out some of Davis’s later recordings and began showing me how you can hear subtle but unmistakable hints of his former bandleaders’ influences—a borrowed phrase here, a quiet moment in an otherwise complex arrangement. And my literature professors were no different, helping me wade through works such as John Milton’s epic poem, *Paradise Lost*. They showed me how Milton adopted the imagery of his classical predecessors, invoking the likes of Homer’s *Odyssey* and Virgil’s *Aeneid.* But specifically, he did so in the first two sections of his poem—passages that were, conveniently, set in Hell. (Nice little dig, that; a bit of a rap battle between dead white poets.)
 
@@ -42,7 +42,7 @@ Like Moore, Meyer looked to Vinh’s distinctive design for the seed of an idea 
 
 > Everybody needs his memories. They keep the wolf of insignificance from the door.
 > 
-> <cite>— Saul Bellow[^bellow]</cite>
+> <cite>— Saul Bellow</cite>[^bellow]
 
 Even though eyewitness accounts are few and far between, we know that on Christmas Day in 1949, Charlie Parker strode onto the stage of Carnegie Hall. Behind him sat one of the finest jazz bands to ever share a spotlight: Red Rodney on trumpet; pianist Al Haig; Tommy Potter on bass; and behind the drums, Roy Haynes. By all accounts, and from the few live recordings that survived the performance, it was an astounding bebop performance. Over the course of the set, “Cheryl” came into rotation—not one of Parker’s better-known songs, but a catchy little blues/bebop amalgam in its own right. And about a minute or so in, he began his solo.
 
@@ -60,7 +60,7 @@ But all that aside, there’s an interesting historical context at work here. Th
 
 > Every man’s memory is his private literature.
 > 
-> <cite>— Aldous Huxley[^huxley]</cite>
+> <cite>— Aldous Huxley</cite>[^huxley]
 
 This is all conjecture, of course. One of the many things I find beautiful, if not downright enviable, about Parker’s allusion is that he fearlessly adopts a musical phrase from years before his performance, reaching over two decades into his past to change the shape of his work. And currently, that breadth of history isn’t available to our very young medium.
 
