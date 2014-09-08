@@ -78,6 +78,6 @@ So cast the best actor you can and work with the text to really make it shine. T
 [^brown]: Tim Brown, [“More Perfect Typography.”](https://vimeo.com/17079380)
 [^hazlett]: Richard L. Hazlett, A. Dawn Shaikh, Kevin Larson, Barbara S. Chaparo, “The Instant Impact of Onscreen Aesthetics: The Effects of Typeface Personality,” (unpublished research/publication proposal, 2008).
 [^hochuli-kinross]: Jost Hochuli and Robin Kinross, *Designing Books: practice and theory*, (Hyphen Press, 1996).
-[^bringhurst]: Robert Bringhurst, *The Elements of Typographic Style*, (Hartley &amp; Marks, 1992/2005).
+[^bringhurst]: Robert Bringhurst, *The Elements of Typographic Style*, (Hartley & Marks, 1992/2005).
 [^song-schwarz]: Hyunjin Song and Norbert Schwarz, “If It’s Easy to Read, It’s Easy to Do, Pretty, Good, and True,” (*The Psychologist*, 2010).
 [^rands]: [@rands on Twitter](https://twitter.com/rands/status/140983268173549568), November 28, 2011.

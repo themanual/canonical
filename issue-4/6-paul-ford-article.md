@@ -41,7 +41,7 @@ They’re like characters in a kid’s book. *Smud, Plit, and Diff went down to 
 The poor guy. The thing is, he’s trying to unpack decades of decisions, to make sense of them. But at this point the Photoshop format—most file formats of great age, in fact—is more like a legal document. Parts are open to interpretation. The computer is the ultimate judge, but you never know how it will rule. Later, that same open-source programmer writes:
 
     /*
-    Trying to get data out of a PSD file is like trying to find something in the attic of your eccentric old uncle who died in a freak freshwater shark attack on his fifty-eighth birthday. That last detail may not be important for the purposes of the simile, but at this point I am spending a lot of time imagining amusing fates for the people responsible for this Rube Goldberg of a file format. 
+    Trying to get data out of a PSD file is like trying to find something in the attic of your eccentric old uncle who died in a freak freshwater shark attack on his fifty-eighth birthday. That last detail may not be important for the purposes of the simile, but at this point I am spending a lot of time imagining amusing fates for the people responsible for this Rube Goldberg of a file format.
     */
 
 You feel for the programmer. Because if you’re going to create an image viewer you need to deal with Photoshop. But when you think about it, when you look at the way that files and programs tend to go, well, the fact that Photoshop would be a puzzle seems inevitable. Look at HTML5.

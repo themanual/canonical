@@ -20,7 +20,7 @@ Passion takes practice.
 
 ## Twirling in the Junkyard
 
-To practice passion, we must first set the proper expectations: Your work, even when you love it, will not always please you. 
+To practice passion, we must first set the proper expectations: Your work, even when you love it, will not always please you.
 
 I went to grad school to pursue my true love, philosophy. I had dreams of sitting in periwinkle fields, effortlessly penning ideas in leather-bound journals. Instead, I spent massive amounts of time underlining ancient texts and painstakingly outlining arguments. You can’t do philosophy without being downright mathematical in your thoughts, and math is not, to put it lightly, my strong suit.
 

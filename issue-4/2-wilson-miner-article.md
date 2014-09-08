@@ -24,17 +24,17 @@ Wheat, like corn, rice, and most domesticated grains, is an annual plant. Every 
 
 Because the growing season is relatively short, the soil has nothing in it for much of the year. When the rain comes, and there are no roots to hold the soil, it washes away the surface and takes a layer of topsoil with it. Even flat and well-managed cropland loses tons of topsoil per acre every year through erosion.
 
-Through the development of fertilizers, irrigation, and bio-engineered crops, farmers have actually managed to increase crop yields over the years by finding new ways to extract more from less. Just as the car industry has developed incrementally more efficient gas engines to squeeze a few more miles per gallon out of a finite and dwindling reserve of fossil fuels, the agriculture industry has so far been able to increase production rates even as the destruction of the soil continues to accelerate. 
+Through the development of fertilizers, irrigation, and bio-engineered crops, farmers have actually managed to increase crop yields over the years by finding new ways to extract more from less. Just as the car industry has developed incrementally more efficient gas engines to squeeze a few more miles per gallon out of a finite and dwindling reserve of fossil fuels, the agriculture industry has so far been able to increase production rates even as the destruction of the soil continues to accelerate.
 
 Already, this engineered growth shows signs of slowing. Eventually, the clock will run out.
 
 Much of the western part of the state of Kansas has been cultivated for farmland, but to the east, in the Flint Hills, the rocky landscape that gives the region its name has yielded less willingly to the plow. Here, the tall grass prairie that was the natural ecosystem of these plains before agriculture displaced it still covers several thousand acres of rolling hills. Much of it has been used as grazing land for livestock, but the deep, resilient root system of the native grasses keep hold of the soil, protecting against erosion.
 
-In contrast to the annual grains that make up the foundation of our food system, prairie grasses are perennial plants. Each year, when the grass above ground dies in the fall and winter (or during a drought), the roots, which make up as much as 75% of the plants’ biomass, stay intact below and produce new growth in the spring. 
+In contrast to the annual grains that make up the foundation of our food system, prairie grasses are perennial plants. Each year, when the grass above ground dies in the fall and winter (or during a drought), the roots, which make up as much as 75% of the plants’ biomass, stay intact below and produce new growth in the spring.
 
-Everything about the prairie ecosystem is self-renewing. In addition to protecting against erosion, the year-round plant cover actually returns more nutrients to the soil over time than they use, meaning that soil covered in prairie grass is actually improved rather than depleted over time. 
+Everything about the prairie ecosystem is self-renewing. In addition to protecting against erosion, the year-round plant cover actually returns more nutrients to the soil over time than they use, meaning that soil covered in prairie grass is actually improved rather than depleted over time.
 
-The farmer needs chemicals to fertilize his crops and protect against infestations and diseases that target one plant at a time and spread easily. Because the native prairie is a diverse ecosystem made up of many mutually-beneficial organisms, it has been resilient enough to thrive for thousands of years without intervention. 
+The farmer needs chemicals to fertilize his crops and protect against infestations and diseases that target one plant at a time and spread easily. Because the native prairie is a diverse ecosystem made up of many mutually-beneficial organisms, it has been resilient enough to thrive for thousands of years without intervention.
 
 ## Technological Sediment
 
@@ -46,7 +46,7 @@ With his unceremonious departure from Apple almost a decade behind him and his t
 
 With digital interfaces, there’s only so much we can do to make our products more durable. We’re limited by the ephemeral nature of our materials. And we’ve learned to work in a way that takes advantage of the fact that digital material is so easily disposable. We try things; we learn something; we erase things, and we try again.
 
-But the process, the way we got there, has a longer lifespan. The process is the sediment, the deep root system where we store up knowledge over time. Each product we create is just what surfaces above ground, a crystallization of the sum total of everything we’ve learned up to that point. 
+But the process, the way we got there, has a longer lifespan. The process is the sediment, the deep root system where we store up knowledge over time. Each product we create is just what surfaces above ground, a crystallization of the sum total of everything we’ve learned up to that point.
 
 If all we celebrate is what is visible on the surface—the fragile plant and not the durable root system—we limit the scope of our ambition to the shortest possible horizon. Are we making layers of sediment for future generations to build a mountain, or are we planting each year’s crop of new products and watching them wash away once their short-term value is harvested and consumed?
 
@@ -60,7 +60,7 @@ That signage system, which has itself become an icon of the city, has evolved si
 
 Vignelli designed another system, in 1977, for the National Park Service (NPS). The modular system, called the Unigrid, allowed the NPS to create multiple sizes of brochures, fold-out maps, and posters by reusing the same elements and structure across all the materials.
 
-Like the subway signage system, the Unigrid system was designed to bring order to a chaotic process. The NPS is a widely distributed organization with widely varying needs and staff capabilities. Because the Unigrid was designed as a simple, modular system, it was straightforward to create many different brochures separately that felt like part of the same system. Because it was designed to be modular and flexible, it was possible to adapt it to new needs over time without dismantling the foundation of the system. 
+Like the subway signage system, the Unigrid system was designed to bring order to a chaotic process. The NPS is a widely distributed organization with widely varying needs and staff capabilities. Because the Unigrid was designed as a simple, modular system, it was straightforward to create many different brochures separately that felt like part of the same system. Because it was designed to be modular and flexible, it was possible to adapt it to new needs over time without dismantling the foundation of the system.
 
 Even the most ambitious systems don’t always have what it takes to survive. Vignelli’s New York City subway map, which he designed alongside the subway signage system, was famously replaced a few years later after continued complaints from subway riders. Vignelli was quoted by the *New York Times*, calling the replacement map a “mongrel” for its messy mixing of “naturalism and abstraction” (Vignelli’s map was much-hated by New Yorkers for wildly misrepresenting above-ground distances in favor of diagrammatic purity). Michael Hertz, the designer of the map which long outlasted Vignelli’s own, responded that “mongrels” or “hybrids” are “usually healthier, smarter, and longer-lived creatures than his ‘thoroughbred’ turned out to be.”
 
@@ -72,7 +72,7 @@ Even the most ambitious systems don’t always have what it takes to survive. Vi
 
 The largest shopping mall in the world is a ghost town. Built on former farmland in the suburbs of Dongguan, China, the New South China Mall covers 9.6 million square feet, with leasable space for as many as 2,350 stores. It has seven zones with features that mimic landmarks from international cities like Paris, Rome, and Venice, including an eighty-foot replica of the Arc de Triomphe, and a 1.3-mile canal complete with gondolas.[^mall]
 
-It’s almost completely empty. There is no airport in Dongguan to bring shoppers from more populated areas, and there are no highways that reach the mall’s location. 
+It’s almost completely empty. There is no airport in Dongguan to bring shoppers from more populated areas, and there are no highways that reach the mall’s location.
 
 The New South China Mall is the largest, but far from the only mall in the world standing vacant. All over the world, the great hulking masses of “dead malls” loom over the suburbs, the ghosted outlines of dismantled signs on the walls of the department stores like the shadows of an earlier age of commerce.
 
@@ -104,13 +104,13 @@ There are more ways to scale than growth. There are more ways to deepen our impa
 > 
 > <cite>— Wes Jackson</cite>
 
-A few hours east of my grandfather’s farm by interstate highway, just outside of Salina, Kansas, there’s a barn. It’s a barn like many other barns around here, but every year for a few days in the fall, it fills up with people. They come from all over, for an event called The Prairie Festival, and set up camp in the surrounding fields. 
+A few hours east of my grandfather’s farm by interstate highway, just outside of Salina, Kansas, there’s a barn. It’s a barn like many other barns around here, but every year for a few days in the fall, it fills up with people. They come from all over, for an event called The Prairie Festival, and set up camp in the surrounding fields.
 
 They come for many of the same things you’d expect from a harvest festival in the American Midwest—food, music, dances, bonfires. But they also gather in this barn every year to discuss “the problem of agriculture,” in the words of Wes Jackson, who founded The Land Institute here with his wife Dana in 1971.
 
 The Land Institute began with the radical idea to question the entire premise of annual monoculture and look for an entirely new system of agriculture to replace it. Using the native prairie ecosystem as a model, teams of researchers and students here are working to find a new way of feeding ourselves which would sustain and enrich the soil instead of depleting it.
 
-They’re using many of the same techniques, like hybridization and selective breeding, which have been so successful at increasing yields in commercial grain crops, to develop promising strains of native, perennial plants into viable food-producing crops. 
+They’re using many of the same techniques, like hybridization and selective breeding, which have been so successful at increasing yields in commercial grain crops, to develop promising strains of native, perennial plants into viable food-producing crops.
 
 A few years after he started the Land Institute, Wes Jackson was asked about its chances for success. Was it even possible to develop a perennial mixture of plants which can even approach the yields necessary to be a viable alternative to commercial grains for food production? His response was characteristically understated: “Given a little bit of money and up to a hundred years, we can do it. I see no reason why it can’t be done.”[^jackson]
 
@@ -118,11 +118,11 @@ Thirty years later, The Land Institute now hopes to be able to grow enough of it
 
 ## Renewal
 
-There’s a patch of land on my grandfather’s farm that’s set off from the rest on a small, sloping plot with rocky soil. The wheat has never grown as tall here, or yielded as much grain as the rest of the farm. 
+There’s a patch of land on my grandfather’s farm that’s set off from the rest on a small, sloping plot with rocky soil. The wheat has never grown as tall here, or yielded as much grain as the rest of the farm.
 
-Last summer, the last wheat crop that would have grown on this land was harvested. This year, it will be reseeded with native grasses as part of the Conservation Reserve Program, a USDA program that offers a small incentive to landowners who restore or protect native grassland on their property. 
+Last summer, the last wheat crop that would have grown on this land was harvested. This year, it will be reseeded with native grasses as part of the Conservation Reserve Program, a USDA program that offers a small incentive to landowners who restore or protect native grassland on their property.
 
-The land has other uses: there are still a few oil wells pumping, and the grassland is good for grazing. But underneath the ground, a new root system is growing, and soon it will start to build the soil back up. Maybe someday this land will grow food again. Maybe my grandchildren will come stand out in this field too, just in time for harvest. 
+The land has other uses: there are still a few oil wells pumping, and the grassland is good for grazing. But underneath the ground, a new root system is growing, and soon it will start to build the soil back up. Maybe someday this land will grow food again. Maybe my grandchildren will come stand out in this field too, just in time for harvest.
 
 [^berry]: Wendell Berry, “Manifesto: The Mad Farmer Liberation Front,” *Reclaiming Politics* (1991).
 [^jobs]: John McLaughlin, Steve Jobs 1994 Uncut Interview (Silicon Valley Historical Association, 2013).

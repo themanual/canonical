@@ -36,4 +36,4 @@ That’s right, *my wife*.
 
 So after I got down off of my high horse and humbled myself enough to listen, Dana and I were able to work together to create something that reflected who she is and what she loves rather than a showcase for my skills as a designer.
 
-This experience serves as my constant reminder that design is for the client, not for us, and that humility and openness are qualities not only worth cultivating but critically important for working with *every* client—even the ones who once said, “I do.” 
+This experience serves as my constant reminder that design is for the client, not for us, and that humility and openness are qualities not only worth cultivating but critically important for working with *every* client—even the ones who once said, “I do.”

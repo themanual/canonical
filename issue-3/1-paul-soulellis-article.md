@@ -82,5 +82,5 @@ I want to see more design humility in our conversations. I suspect our work will
 
 
 [^kostelanetz]: Richard Kostelanetz, *Conversing with Cage*, (Routledge, New York, 2003).
-[^glaser]: Milton Glaser, “On the Fear of Failure,” (Berghs Exhibition, 2011). 
+[^glaser]: Milton Glaser, “On the Fear of Failure,” (Berghs Exhibition, 2011).
 [^mau]: Bruce Mau, “Incomplete Manifesto for Growth,” (Blog, Bruce Mau Design, 1998-2011).

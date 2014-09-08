@@ -10,7 +10,7 @@ The government, initially slow to react, finally realized the gravity of the sit
 
 Although I lived in the city, our county was largely rural. Hundreds of nearby farmers were forced to sacrifice their herds and quarantine their farms to prevent infection. Yellow warning signs dotted the fields. Wellington boots were considered potential vectors of disease. The countryside was closed for business.
 
-As expected, the government announced a large pot of money to compensate farmers who’d lost income. I found the details online and added them to my database. File &gt; Save.
+As expected, the government announced a large pot of money to compensate farmers who’d lost income. I found the details online and added them to my database. File > Save.
 
 I took a call early one morning. An elderly voice, meek and sad. For several decades, she and her husband had ground out a decent, albeit hard living on their farm. Now her business was effectively closed, and she was worried about the future. I sprang into action, calling up my database with a single hand as she talked. Technology saves the day. There’s this fund, you know…
 

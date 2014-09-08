@@ -18,7 +18,7 @@ Initially speaking only occasionally to encourage me, he listened intently, all 
 
 Breakwell understood that I wasn’t trying to create a romanticized view of the landscape and that my interest was more about journeys, geology, and what we learn about ourselves by immersion in the wilderness.
 
-“What you’re doing is interesting,” he said, as I remember it. “And you should enjoy the fact that it’s at odds with what everyone else in this building is doing.” 
+“What you’re doing is interesting,” he said, as I remember it. “And you should enjoy the fact that it’s at odds with what everyone else in this building is doing.”
 
 This was a significant breakthrough for me. I listened intently as he began to throw more ideas and suggestions my way. Leaning forward as the feedback became increasingly focused, he proffered logical and enlightening suggestions for where I should take my work and how I could draw upon specific influences to better understand my own intentions.
 
