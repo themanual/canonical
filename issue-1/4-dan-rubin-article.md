@@ -8,6 +8,8 @@ Similarly, mapping the concept of a *page* to the web has affected the way we de
 
 By simply existing in our lexicon, the page has influenced our approach to design, layout, navigation, interaction, client communication, widths, heights, folds, advertising, and typography. As with the book, the web as we know it has evolved due to our perception of its form.
 
+* * *
+
 The web was never intended to be a replacement for print—an evolutionary step, perhaps, but certainly not a digitally-distributed clone with a few extra bells and whistles. Yet web design in its current state is often a strangely beautiful hybrid, inheriting its principles, typography, and language from decades of print, graphic, and information design, enhanced through layers of interaction, audio, and video yet clearly capable of so much more.
 
 Writing about information design, Edward R. Tufte recognized the dissonance between our physical world and the way we attempt to represent it, explaining one of the conceptual problems we face when designing for the web:
@@ -16,6 +18,8 @@ Writing about information design, Edward R. Tufte recognized the dissonance betw
 
 The year this was published, Tim Berners-Lee invented the World Wide Web.
 
+* * *
+
 The web has been document-centric from the beginning. When Berners-Lee proposed building a network atop the burgeoning internet to facilitate sharing of information, the format of that information was primarily text—more specifically, hypertext documents following the structure of research papers and scientific documentation. Berners-Lee’s first web browser—a window-based application for the NeXTSTEP platform; initially named “WorldWideWeb,” and later “Nexus”—even determined the size of its windows based on the *[Page Layout](http://info.cern.ch/hypertext/WWW/NeXT/Menus.html#29)* settings for printing viewed documents.
 
 So the web was conceived as a variation on the word processor—a distributed network of linear documents connected by a layer of hyperlinks. It stands to reason, then, that everything we have at our disposal today is somehow a result of this initial vision, that every site we design, every experience we create is an extension of the document-centric approach.
@@ -23,6 +27,8 @@ So the web was conceived as a variation on the word processor—a distributed ne
 This is why text elements are the foundation of HTML and why everything else—tables, CSS for layout, video, plugins—are merely extensions in response to demand.
 
 If we consider the web as it was initially envisioned, it’s not surprising that we’ve found it so easy to use *page* to unwittingly define our own boundaries.
+
+* * *
 
 > Page  
 > “sheet of paper,” 1580s (earlier pagne, 12c., directly from O.Fr.), from M.Fr. page, from O.Fr. pagine, from L. pagina “page, strip of papyrus fastened to others,” related to pagella “small page,” from pangere “to fasten,” from PIE base *pag- “to fix” (see pact).[^page]
@@ -42,6 +48,8 @@ The frequency with which these synonyms appear within the original glossary is i
 
 *Page*, however, is only mentioned in passing, its definition secured four centuries earlier.
 
+* * *
+
 Trying to imagine a web without pages is like asking, “What if books had never been books?” While not strictly practical, this exercise in imagination leads us down an interesting path.
 
 Let’s use books as our example: what if books never had pages? What if we were to separate the intellectual artifact (the document) from its physical format (the book)? We can follow this line of questioning to an age before pages and leaves, before individual sheets of paper were bound together to form a codex (precursor to the modern book). We find ourselves reading a scroll—still a document: linear, orderly, and structured, yet formed as one continuous physical unit. How did the change in physical format from scroll to book affect the medium? Covers, binding, pagination, indices, even the printing press, all owe their existence not to the document, but to the constraints and requirements of the physical format of the object we know as a book.
@@ -53,6 +61,8 @@ It’s likely the types of content (the intellectual artifact) would be similar;
 If we never defined the web as a series of *pages*, would we have needed pagination? Would the debate over the *fold* have made the transition from the world of printed newspapers? Might the *infinite canvas*—Scott McCloud’s concept of the visible area of content on the screen as a *window* instead of a page—have been embraced as the natural approach to designing for our content?
 
 McCloud also suggests that pages are optional, that “without such restrictions…every one of those choices can be made exclusively on behalf of the needs of the story.”[^mccloud] This approach to designing without boundaries has led us to more responsive design practices, but we’re still just skimming the surface of what is actually possible.
+
+* * *
 
 We talk at length about experience, emotional design, content strategy, visual grammar, psychology, usability, and standards, but none of them really challenge the way we work, the way we think about the larger concept of what we’re actually capable of doing with this incredible network of wires, satellites, servers, ideas, and people. The conceptual dissonance between what we know we are capable of achieving and the perceived structure of the web has limited our ability to surpass the medium’s current constraints.
 
@@ -70,6 +80,8 @@ Much frustration has resulted from the misunderstanding of what, exactly, the we
 
 Yet this seemingly arbitrary constraint has led us to what we consider the modern web to be: images, video, JavaScript, animation, Ajax, apps—and, yes, even Flash. Without the inherent limitations of a system designed to share simple documents, we may never have realized its enormous potential.
 
+* * *
+
 Our approach to designing for the web can restrict us as easily as the misconceptions we, and others, have about how to define the medium. Discussing the advancement of abstract painting in the mid-1980s, artist Frank Stella recognized a similar dilemma:
 
 > It is not the problem of perspective, either linear or atmospheric; nor is it the problem of flatness that makes this space so different, although this often seems the best way to describe it. Rather, it appears to be something in the intention, in the acceptance of commissioned configurations, in the attitude toward covering a given surface that held painting back, that actually kept it from creating a surface that was capable of making figuration look real and free.[^stella]
@@ -79,6 +91,8 @@ Perhaps the approach we take, our intention, our attitude toward the medium and 
 Our canvas is not the viewport, nor is it Photoshop®, HTML, CSS, JavaScript, video, mobile, native apps, or a screen or device of any dimension or capability. It is no longer simply *the web*; it is at the very least the internet, the people and devices connected to it, and the context of those connections.
 
 Yet while we struggle to define our canvas within this virtual construct, we remain unable to manipulate aspects of layout and typography that the printed page has enjoyed—mechanically or otherwise—for centuries. How is it that we’ve inherited preconceptions but not application?
+
+* * *
 
 For years, web designers have been playing catch-up with traditional print designers; yes, webfonts are fantastic, but print designers have had their choice of typeface for decades, and besides, the web is not print. With so much of our energy focused on becoming more like an existing, static medium, how can we expect to evolve our discipline beyond the confines of the document-centric format?
 
