@@ -105,10 +105,10 @@ Dylan the no one, the vapor, the actor, was born off the network. Born in a time
 
 I watch this Dylan and see him systematically define his rules, inhabit them, draw from them a permission. As I watch I remember others and their rules—both from Dylan’s time and the present.
 
-Susan Sontag banished books from her tiny apartment in Paris in the ’70s. Books were her white noise. The bookless apartment her whitespace. Watching Dylan I recall Pico Iyer’s yearly hermitage on the coast of California—two weeks of absolute permission. Stefan Sagmiester’s year-long sabbatical once every seven years. And on and on. The creators and their rules and their permissions tumble out from the screen.
+Susan Sontag banished books from her tiny apartment in Paris in the ’70s. Books were her white noise. The bookless apartment her whitespace. Watching Dylan I recall Pico Iyer’s yearly hermitage on the coast of California—two weeks of absolute permission. Stefan Sagmeister’s year-long sabbatical once every seven years. And on and on. The creators and their rules and their permissions tumble out from the screen.
 
 * * *
 
-There is no good network or bad network. No right disconnectivity or wrong connectivity. The best we can do—the most important thing we can do—is to cultivate awareness of the rules we inhabit. To understand the language they produce and with that the permissions granted.
+There is no good network or bad network. No right disconnectivity or wrong connectivity. The best we can do—the most important thing we can do—is to cultivate awareness of the rules we inhabit. To understand the language they produce, and with that, the permissions granted.
 
 One night I am watching Dylan, the next I am not. The next I am touching the moss or the mountain, I am flying to Africa, I am moving deliberately through the back alleys of a new city, I am doing whatever it takes to quiet the din, to lay a blanket of white space over the mind, to find the permission to do the work necessary.

@@ -28,7 +28,7 @@ Through the development of fertilizers, irrigation, and bio-engineered crops, fa
 
 Already, this engineered growth shows signs of slowing. Eventually, the clock will run out.
 
-Much of the western part of the state of Kansas has been cultivated for farmland, but to the east, in the Flint Hills, the rocky landscape that gives the region its name has yielded less willingly to the plow. Here, the tall grass prairie that was the natural ecosystem of these plains before agriculture displaced it still covers several thousand acres of rolling hills. Much of it has been used as grazing land for livestock, but the deep, resilient root system of the native grasses keep hold of the soil, protecting against erosion.
+Much of the western part of the state of Kansas has been cultivated for farmland, but to the east, in the Flint Hills, the rocky landscape that gives the region its name has yielded less willingly to the plow. Here, the tall grass prairie that was the natural ecosystem of these plains before agriculture displaced it still covers several thousand acres of rolling hills. Much of it has been used as grazing land for livestock, but the deep, resilient root system of the native grasses keeps hold of the soil, protecting against erosion.
 
 In contrast to the annual grains that make up the foundation of our food system, prairie grasses are perennial plants. Each year, when the grass above ground dies in the fall and winter (or during a drought), the roots, which make up as much as 75% of the plants’ biomass, stay intact below and produce new growth in the spring.
 
@@ -88,7 +88,7 @@ By the end of his life, Gruen left America as disgusted with his own invention a
 
 ## The Failure Of Success
 
-It’s natural to want the things we make to last. Even the smallest things, the ones made of the most fragile stuff. We want them have meaning, to be useful, to be bigger than ourselves somehow. Every product we launch into the crucible of the real world, every project we deliver to the mercy of a client or leave in the hands of our colleagues after we leave a job. Every acquisition, every exit, every pivot, every shutdown, every bitter end. Somehow we hope to invest some quality in the things we make which will outlast our involvement.
+It’s natural to want the things we make to last. Even the smallest things, the ones made of the most fragile stuff. We want them to have meaning, to be useful, to be bigger than ourselves somehow. Every product we launch into the crucible of the real world, every project we deliver to the mercy of a client or leave in the hands of our colleagues after we leave a job. Every acquisition, every exit, every pivot, every shutdown, every bitter end. Somehow we hope to invest some quality in the things we make which will outlast our involvement.
 
 The modern practice of agriculture is based on a system of annual monoculture because it’s what gets results. Because the plants have no long-term systems to support, all their energy goes toward producing grains, which means bigger harvests. By planting huge fields with only one crop, the large commercial operations, where most of our food is produced, can operate as efficiently as possible. Year over year, annual monoculture feeds the most people the most efficiently. It’s also completely, transparently, inherently unsustainable.
 
