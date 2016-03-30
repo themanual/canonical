@@ -109,5 +109,5 @@ Unlike the interface of physical reality, there is only the* illusion *of exchan
 [^weschler]: Lawrence Weschler, *Seeing Is Forgetting the Name of the Thing One Sees (Expanded Edition): Over Thirty Years of Conversations with Robert Irwin* (UC Press, 2009).
 [^hara-1]: Kenya Hara, *Designing Design* (Lars Mueller, 2011).
 [^hara-2]: Kenya Hara, Ed., *Subtle - The 47th Takeo Paper Show* (Takeo Co., 2015).
-[^demaine-orourke]: Erik Demaine and Joseph O'Rourke, *Geometric Folding Algorithms: Linkages, Origami, Polyhedra* (Cambridge University Press, 2007).
+[^demaine-orourke]: Erik Demaine and Joseph O’Rourke, *Geometric Folding Algorithms: Linkages, Origami, Polyhedra* (Cambridge University Press, 2007).
 [^krulwich]: Robert Krulwich, “What Is It About Bees and Hexagons?” *Radiolab (Blog)*, May 14, 2013.

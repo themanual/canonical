@@ -16,7 +16,7 @@ On a sea voyage from Boston in the 1720s, Franklin’s ship is becalmed off Rhod
 
 This view seems “reasonable,” but Franklin, previously “a great lover of fish,” is also hungry. As the cod in the frying pan begin to smell appetizing, he battles with desire until recollecting that, when the fish were sliced open, smaller fish were taken out of their stomachs. “‘If you eat one another, I don’t see why we mayn’t eat you,’” thinks Franklin and dines happily.
 
-“So convenient a thing is it to be a *reasonable creature*,” he reflects of this story in the *Autobiography*, which he began writing in 1771, “since it enables one to find or make a reason for every thing one has a mind to do.”* *What the reader might be tempted to call a lack of conviction Franklin pins instead on a renewal of principle: hungry for fresh fish, he simply revisits his original reasoning and finds it in need of iteration. Presented with the most deliberate artifice, this evolution is nonetheless organic, imbuing the colonial recollection with a sentiment that should feel familiar to us today. The narrative structure does as much work as the events of the story, defining Franklin not as a vegetarian or pescatarian but as someone who is always redefining himself.
+“So convenient a thing is it to be a *reasonable creature*,” he reflects of this story in the *Autobiography*, which he began writing in 1771, “since it enables one to find or make a reason for every thing one has a mind to do.” What the reader might be tempted to call a lack of conviction Franklin pins instead on a renewal of principle: hungry for fresh fish, he simply revisits his original reasoning and finds it in need of iteration. Presented with the most deliberate artifice, this evolution is nonetheless organic, imbuing the colonial recollection with a sentiment that should feel familiar to us today. The narrative structure does as much work as the events of the story, defining Franklin not as a vegetarian or pescatarian but as someone who is always redefining himself.
 
 It’s the tale, in other words, but also the telling.
 
@@ -34,7 +34,7 @@ As a writer, my job titles have spanned various permutations of “user experien
 
 My résumé, then, is a slow-motion capture of the chaotic evolution of our thinking around narrative. If you look closely enough, this etymological chaos reveals a lot about our industry-wide relationship—ambivalently attentive, intermittently enthusiastic—to words.
 
-## All The Content
+## All the Content
 
 For writers who care deeply about language in web and product design, content strategy is a gateway drug. Content strategy is not, however, exclusively or even primarily focused on writing. To deploy Kristina Halvorson’s widely quoted definition, “Content strategy plans for the creation, publication, and governance of useful, usable content.” The term surfaced in the late 1990s as a strategic approach to dealing with what the typical user faced on the web: a morass of words and images and data and sounds and video and comments in desperate need of architecting. Formulating itself as an umbrella discipline, content strategy claims jurisdiction over, well, everything that the user encounters on the web plus the organizing principles behind it:
 
@@ -54,7 +54,7 @@ These definitions are provocative by nature, open for interpretation like a Rors
 
 These sources, along with many others that have shaped content strategy as a discipline, point to two related challenges. First, like the value of design in 1986 or even at the turn of the millennium, the value of writing and careful language is still not assumed. We are well on our way, but content strategy, the intuitive entry point for changing hearts and minds, is a “big, big world” that—and this is problem number two—currently covers perhaps too many sins for its own good. It might be time for a conversation around what sits under the “everything” umbrella.
 
-## Get Thee To An Ivory Tower
+## Get Thee To an Ivory Tower
 
 This discussion might seem rather academic, but that is, frankly, kind of the point: It’s a way of pulling back the curtain on how we specialize and adapt in an industry that moves quickly. Indeed, as we map the content terrain to make it more legible for both practitioners and observers, we might take a page from academia.
 
