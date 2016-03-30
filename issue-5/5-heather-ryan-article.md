@@ -46,7 +46,7 @@ This same type of thinking is the driving force behind the endless stream of tec
 
 Unfortunately, the charging rhino of innovation is at the very heart of what is making it so difficult to preserve the web and our other digital creations. As new technological innovations rise up, the old ones fall further and further away. Each new iteration of hardware and software takes us steps away from the older ones. Each step we take away from our older technologies and their familial operating systems, connecting cables, file formats, and browsers, the more difficult it becomes to return to them.
 
-One of my favorite teaching props is an old 8” floppy disk. I gave a lecture just last week where I held it up and people in the room literally gasped. I asked them if they could tell me where I might go to read what’s on the disk. The only person who knew was a fellow digital preservation researcher whose job it was to find a disk reader for some 8” floppies that were donated to his university’s digital archives.
+One of my favorite teaching props is an old 8″ floppy disk. I gave a lecture just last week where I held it up and people in the room literally gasped. I asked them if they could tell me where I might go to read what’s on the disk. The only person who knew was a fellow digital preservation researcher whose job it was to find a disk reader for some 8″ floppies that were donated to his university’s digital archives.
 
 My three-year-old laptop has a CD/DVD drive, but newer models of my computer don’t. When is the last time you bought a CD? How long until the crowd gasps in awe when I hold one up during a lecture?
 

@@ -1,4 +1,4 @@
-Ricky Scott is a pitmaster in a place called Hell’s Half Acre, South Carolina. He’s also the Director of Public Works for the county, and in his spare time, he serves as a volunteer firefighter. I learned about Scott from a short documentary called *Thursday in Hell’s Half Acre*, made by 1504 Pictures for the Southern Foodways Alliance. [1] “I have a day job, but after four o’clock on Thursdays I take off and go over on down to the barbecue business,” he said in the interview. Once a week, he smokes a pig and serves it to his neighbors. He’s open for three hours only, and he sells out every time.
+Ricky Scott is a pitmaster in a place called Hell’s Half Acre, South Carolina. He’s also the Director of Public Works for the county, and in his spare time, he serves as a volunteer firefighter. I learned about Scott from a short documentary called *Thursday in Hell’s Half Acre*, made by 1504 Pictures for the Southern Foodways Alliance.[^foodways] “I have a day job, but after four o’clock on Thursdays I take off and go over on down to the barbecue business,” he said in the interview. Once a week, he smokes a pig and serves it to his neighbors. He’s open for three hours only, and he sells out every time.
 
 There are a lot of people like Ricky Scott out there, balancing full-time jobs with passion projects and splitting their time between things that are important to them. He could quit his day job and try to live the pitmaster dream, but the Thursday-only barbecue business is working out just fine.
 
@@ -52,7 +52,7 @@ It’s always going to be a mix. So you weigh the pros and the cons, including t
 
 I love my job, but I wouldn’t say I do what I love the most in this world. I care about the company, my coworkers, and the people we serve. I’m invested and engaged at work. But if my job ever becomes my deepest source of happiness, my life will fall out of balance. This is my truth. It may not be yours.
 
-A 2015 Gallup poll of employee engagement said “the percentage of U.S. workers engaged in their jobs rose from an average 31.7% in January to an average 32.9% in February.” [2] This is a three year high. Most people are either indifferent or actively disengaged at work. That’s a problem that we can help solve.
+A 2015 Gallup poll of employee engagement said “the percentage of U.S. workers engaged in their jobs rose from an average 31.7% in January to an average 32.9% in February.”[^adkins] This is a three year high. Most people are either indifferent or actively disengaged at work. That’s a problem that we can help solve.
 
 Here’s a more achievable goal than to follow your dreams: Be engaged at work. Look for meaning in it. This is hard sometimes. Being engaged at work *takes work*, and it’s an ongoing process. Turning a creative passion into a job is certainly one way to find meaning in your work, but it’s not the only way.
 
@@ -77,5 +77,5 @@ I can’t stop thinking about Ricky Scott in Hell’s Half Acre. Rewatching the 
 
 “Some day I may go full-time with barbecue,” he says in the film. “But so far, rather than doing that I’d rather keep it like it is right now. I put one hundred and one percent in it, and make sure it goes on as long as I can do it.”
 
-1. *Thursday in Hell’s Half Acre*, by 1504 Pictures for the Southern Foodways Alliance (2015). [_https://vimeo.com/120916682_](https://vimeo.com/120916682)
-2. Amy Adkins, “U.S. Employee Engagement Reaches Three-Year High,” Gallup, March 9, 2015. [_http://www.gallup.com/poll/181895/employee-engagement-reaches-three-year-high.aspx?utm_source=EMPLOYEE_ENGAGEMENT&utm_medium=topic&utm_campaign=tiles_](http://www.gallup.com/poll/181895/employee-engagement-reaches-three-year-high.aspx?utm_source=EMPLOYEE_ENGAGEMENT&utm_medium=topic&utm_campaign=tiles)
+[^foodways]: *[Thursday in Hell’s Half Acre](https://vimeo.com/120916682)*, by 1504 Pictures for the Southern Foodways Alliance (2015).
+[^adkins]: Amy Adkins, [“U.S. Employee Engagement Reaches Three-Year High,”](http://www.gallup.com/poll/181895/employee-engagement-reaches-three-year-high.aspx) Gallup, March 9, 2015.

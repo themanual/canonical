@@ -1,3 +1,7 @@
+_Note: Kelli has also published an ​[updated version](http://kellianderson.com/blog/2016/03/conversing-with-a-mobius-strip/) of this article._
+
+* * *
+
 In *Is the Man Who is Tall Happy?*, Michel Gondry takes advantage of Noam Chomsky’s open-door interview policy to start talking and see what he can learn about this man.[^gondry] Over the course of several visits, he greets the elder linguist, gets comfortable, revs up the clickety Bolex camera, and reads a prepared question—smuggled in, we imagine, from another universe entirely.
 
 In the audience, we can only hear them. (Gondry later sets the words to a visual track of hand-scrawled animation.) Standing in for facial expressions are the audible artifacts of attentiveness: the variations in pacing, the backing-up, the stopping-short.

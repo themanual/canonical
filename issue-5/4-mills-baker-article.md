@@ -1,3 +1,5 @@
+Consider the uncle.
+
 A friendly-enough figure from your childhood, he’s now part of the constellation of family members with whom you share much and little at once. He tells amusing stories about your parents. He’s an avid fan of the same sports team that you are. You love his children, your cousins. But he *also* has unpleasant political opinions that you strongly dislike hearing.
 
 He approaches you at a holiday gathering and begins to reminisce about your mother’s infamously rowdy youth. It’s riveting and hilarious. You’re wide-eyed, nodding along, looking directly at him with attention and a slight, involuntary smile on your face. But after a few stories, he digresses into his take on some political controversy, and here is another side of the man: his position seems not merely incorrect but *deeply* objectionable. Your replies are short, the bare minimum; you don’t maintain eye contact; perhaps you excuse yourself, mentioning that you need to refill your drink. (And perhaps you do). Whereas the first subject yielded great conversation, the second halts it.

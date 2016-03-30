@@ -34,7 +34,7 @@ A window pops up on her screen with a ringing sound. Someone is calling Annie. �
 
 Later that night, Annie introduces me to Brandon over the computer, and he and I make plans to get together for coffee at his place the next day. Brandon has an apartment in the city thirty minutes away and a job working as a legal assistant. He tells me he met Annie on a dating website eight weeks ago. “There’s a certain guilt browsing a dating website because for it to be useful you just have to say no over and over.” I nod but don’t say anything in the hope that he’ll add more. An awkward silence.
 
-“Under 5’2”? No. Blonde? No. No college degree? No. There’s a ticker at the bottom of the page that shows how many results come back after the filter. Mine said about 2,000. Two thousand people I could love. Probably 14,000 more that it didn’t even show me. And yet still, these are all people. They are all looking back, and they want the same thing I do.” He looks down at his black coffee and I notice that he can see himself in it.
+“Under 5′2″? No. Blonde? No. No college degree? No. There’s a ticker at the bottom of the page that shows how many results come back after the filter. Mine said about 2,000. Two thousand people I could love. Probably 14,000 more that it didn’t even show me. And yet still, these are all people. They are all looking back, and they want the same thing I do.” He looks down at his black coffee and I notice that he can see himself in it.
 
 “What do they want, Brandon?”
 
